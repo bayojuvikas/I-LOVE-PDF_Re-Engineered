@@ -90,3 +90,6 @@ Some functionalities are placeholders and need third-party libraries like `pytho
 ## 👨‍💻 Author
 
 This utility was developed as part of a full-featured PDF and other file formats processing suite intended to streamline document handling workflows using Python.
+
+## 📄 License
+This project is licensed under the MIT License.
